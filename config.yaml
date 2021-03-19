@@ -3,9 +3,15 @@ subject: 'cat:cs.*'
 
 # 検索キーワード
 keywords:
-        kaggle: 3
-        resnet: 3
-        anomaly detection: 1
-
+        egocentric: 5
+        detection: 3
+        hand: 1
+        object: 1
+        interaction: 2
+        annotation: 3
+        video: 2
+        action: 1
+        dataset: 1
+      
 # 通知の閾値
-score_threshold: 0
+score_threshold: 3
