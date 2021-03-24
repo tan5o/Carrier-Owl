@@ -5,10 +5,11 @@ subject: 'cat:cs.*'
 keywords:
         egocentric: 5
         detection: 3
+        annotation: 3
+        domain adaptation: 3
         hand: 1
         object: 1
         interaction: 2
-        annotation: 3
         video: 2
         action: 1
         dataset: 1
