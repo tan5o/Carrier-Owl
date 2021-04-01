@@ -6,7 +6,6 @@ keywords:
         egocentric: 5
         detection: 3
         annotation: 3
-        domain adaptation: 3
         hand: 1
         object: 1
         interaction: 2
